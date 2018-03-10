@@ -1,0 +1,2 @@
+# SalamanderNodePuppeteer
+Node官方镜像的基础上安装了puppeteer的依赖
